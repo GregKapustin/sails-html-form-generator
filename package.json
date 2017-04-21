@@ -1,0 +1,33 @@
+{
+  "name": "sails-html-form-generator",
+  "version": "1.0.0",
+  "description": "Generates HTML forms for SailsJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregKapustin/sails-html-form-generator.git"
+  },
+  "keywords": [
+    "sails",
+    "html",
+    "form",
+    "fields",
+    "attributes"
+  ],
+  "dependencies": {
+    "lodash": "^4.x.x",
+    "html-form-generator": "^1.2.x"
+  },
+  "author": "Gregory Kapustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregKapustin/sails-html-form-generator/issues"
+  },
+  "homepage": "https://github.com/GregKapustin/sails-html-form-generator#readme",
+  "sails": {
+    "isHook": true
+  }
+}
