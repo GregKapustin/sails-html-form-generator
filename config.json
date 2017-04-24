@@ -1,0 +1,5 @@
+{
+  "ajax": true,
+  "ajaxURL": "/sailshtmlformsubmit",
+  "appendNew": true
+}
