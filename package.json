@@ -18,9 +18,10 @@
     "attributes"
   ],
   "dependencies": {
-    "lodash": "^4.4.0",
+    "bluebird": "^3.0.0",
     "html-form-generator": "^1.2.0",
-    "bluebird": "^3.0.0"
+    "lodash": "^4.4.0",
+    "moment": "^2.18.1"
   },
   "author": "Gregory Kapustin",
   "license": "ISC",
